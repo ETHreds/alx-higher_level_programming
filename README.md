@@ -17,5 +17,5 @@ All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (v
 	A README.md file, at the root of the folder of this project, is mandatory
 	Your code should use the pycodestyle (version 2.8.*)
 	All your files must be executable
-	The length of your files will be tested using wc
+	The length of your files will be tested using pycode style stuff
 	
