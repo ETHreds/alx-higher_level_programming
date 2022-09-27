@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-    Append to file 
+    Append to file
 """
 
 
